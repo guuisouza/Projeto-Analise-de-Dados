@@ -1,4 +1,4 @@
-# Projeto-Spotify-An-lise-de-Dados
+# Projeto-Análise-de-Dados
 
 📈Projeto desenvolvido para um trabalho de Estatistica Aplicada
 # • O projeto consiste em uma Análise de Dados relacionada ao top 100 global do Spotify em 2018
