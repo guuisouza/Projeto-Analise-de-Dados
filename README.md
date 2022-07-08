@@ -7,6 +7,6 @@
   juntamente com o uso de alguma ferramente tecnologica e uma linguagem de programação  
  • Toda a documentação e pesquisa estão no repositório Documentação  
 💻Tecnologias Utilizadas
- • Para a importação dos dados foi utilizado um arquivo CSV em Excel
- • No tratamento dos dados e o desenvolvimento do Dashboard foi escolhido a ferramenta PowerBI Desktop
- • Para realizar os cálculos e medidas foram utilizadas as linguagens R (RStudio) e DAX (PowerBI)
+ • Para a importação dos dados foi utilizado um arquivo CSV em Excel  
+ • No tratamento dos dados e o desenvolvimento do Dashboard foi escolhido a ferramenta PowerBI Desktop  
+ • Para realizar os cálculos e medidas foram utilizadas as linguagens R (RStudio) e DAX (PowerBI)  
